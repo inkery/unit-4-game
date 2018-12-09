@@ -1,0 +1,52 @@
+#MainPage{  
+
+background-image: url("..//images/back.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+#Instructions{  
+
+    background-color: rgba(255, 255, 255, 0.705);
+    margin: 10px;
+    padding: 10px;
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+
+}
+
+.jumbotron-fluid {
+background-image: url("..//images/head.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+font-weight: bold;
+color: white;
+text-shadow: 5px;
+margin: 10px;
+border-style: solid;
+border-color: black;
+border-width: 5px
+
+}
+
+.cardgems {
+
+height: 150px;
+width: 150px;
+border-style: solid;
+border-color: black;
+
+}
+
+.card-img-top{
+
+height: 145px;
+width: 145px;
+    
+}
+
+
+
+
